@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/10wThwZKXb-rebjeikg_kTsOJYpgfvS4M
 """
 
-pip install scholarly
+# pip install scholarly
 
 # from scholarly import scholarly
 # import pandas as pd
@@ -111,7 +111,7 @@ pip install scholarly
 # if __name__ == "__main__":
 #     main()
 
-pip install streamlit
+# pip install streamlit
 
 import streamlit as st
 from scholarly import scholarly
